@@ -526,7 +526,7 @@
         width: auto;
     }
 
-    .image1 {
+    .image1, .title2, .button, .div3, .image-images, .footer-texts1, {
         width: 425px;
     }
 
@@ -541,15 +541,10 @@
     .title2 {
         display: flex;
         justify-content: center;
-        width: 425px;
     }
 
     .subtitle2 {
         width: auto;
-    }
-
-    .button {
-        width: 425px;
     }
 
     .div {
@@ -561,12 +556,7 @@
         display: block;
         margin: 0 auto;
         height: 663px;
-        width: 425px;
         background: url(./img/image2425.png);
-    }
-
-    .image-images {
-        width: 425px;
     }
 
     .text5 {
@@ -589,7 +579,6 @@
 
     .footer-texts1 {
         display: flex;
-        width: 425px;
         justify-content: space-between;
     
     }
