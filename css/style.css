@@ -249,7 +249,7 @@
 
 .image__item2 {
     padding-bottom: 40px;
-    margin-right: 40px;
+    padding-right: 40px;
 }
 
 .image__item2:last-child {
@@ -423,7 +423,7 @@
     .images1 {
         display: block;
         text-align: center;
-        margin-right: -40px;
+        padding-right: -40px;
     }
 
     .image__item2:last-child { 
@@ -431,7 +431,7 @@
     }
 
     .image__item3 {
-        margin-right: 40px;
+        padding-right: 40px;
     }
 
     }
