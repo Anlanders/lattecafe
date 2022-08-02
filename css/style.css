@@ -526,7 +526,7 @@
         width: auto;
     }
 
-    .image1, .title2, .button, .div3, .image-images, .footer-texts1, {
+    .image1, .title2, .button, .div3, .image-images, .footer-texts1 {
         width: 425px;
     }
 
