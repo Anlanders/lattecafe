@@ -22,7 +22,7 @@
 }
 
 .menu__item {
-    margin-right: 20px;
+    padding-right: 20px;
     text-decoration: none;
     font-family: 'Inter';
     font-style: normal;
@@ -38,17 +38,17 @@
 }
 
 .menu__item:last-child {
-    margin-right: 0px;
+    padding-right: 0px;
 }
 
 .images__item {
     text-decoration: none;
-    margin-right: 15px;
+    padding-right: 15px;
     transition: opacity 0.3s linear;
 }
 
 .images__item:last-child {
-    margin-right: 0px;
+    padding-right: 0px;
 }
 
 .images__item:hover {
@@ -187,17 +187,7 @@
     align-items: flex-start;
 }
 
-.text1 {
-    Width: 389.33px;
-    Height: 125px;
-}
-
-.text2 {
-    Width: 389.33px;
-    Height: 233px;
-}
-
-.text3 {
+.text1, .text2, .text3 {
     Width: 389.33px;
     Height: 125px;
 }
