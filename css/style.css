@@ -537,7 +537,7 @@ body {
 
     .container {
         max-width: 415px;
-        margin: 0 auto;
+        margin: 0 5px;
     }
 
     .place4 {
@@ -639,7 +639,7 @@ body {
 
     .container {
         max-width: 365px;
-        margin: 0 auto;
+        margin: 0 5px;
     }
 
     .image1, .button, .title2, .subtitle2, .image-images, .title3, .text4, .footer-texts3, .lattes {
@@ -691,7 +691,7 @@ body {
 
     .container {
         max-width: 310px;
-        margin: 0 auto;
+        margin: 0 5px;
     }
 
     .image1, .button, .title2, .subtitle2, .image-images, .title3, .text4, .lattes {
