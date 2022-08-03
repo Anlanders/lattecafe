@@ -534,10 +534,6 @@ body {
 
 @media (max-width: 425px) {
 
-    .container {
-        max-width: 405px;
-    }
-
     .place4 {
         height: 800px;
     }
@@ -635,10 +631,6 @@ body {
 
 @media (max-width: 375px) {
 
-    .container {
-        max-width: 355px;
-    }
-
     .image1, .button, .title2, .subtitle2, .image-images, .title3, .text4, .footer-texts3, .lattes {
         width: 100%;
     }
@@ -685,10 +677,6 @@ body {
 }
 
 @media (max-width: 320px) {
-
-    .container {
-        max-width: 300px;
-    }
 
     .image1, .button, .title2, .subtitle2, .image-images, .title3, .text4, .lattes {
         width: 100%;
