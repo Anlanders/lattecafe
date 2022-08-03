@@ -528,7 +528,7 @@
 @media (max-width: 425px) {
 
     .container {
-        max-width: 415px;
+        max-width: 405px;
         margin: 0 auto;
     }
 
@@ -630,7 +630,7 @@
 @media (max-width: 375px) {
 
     .container {
-        max-width: 365px;
+        max-width: 355px;
         margin: 0 auto;
     }
 
@@ -682,7 +682,7 @@
 @media (max-width: 320px) {
 
     .container {
-        max-width: 310px;
+        max-width: 300px;
         margin: 0 auto;
     }
 
