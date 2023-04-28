@@ -128,8 +128,6 @@ body {
     margin-top: 244px;
     height: 1277px;
     padding-top: 120px;
-    display: flex;
-    flex-direction: column;
 }
 
 .buttons {
